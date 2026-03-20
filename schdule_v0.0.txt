@@ -372,3 +372,6 @@ tend/
 
 如果你要，我下一条可以直接给你 **v0.1 的数据库 DDL 初稿** 和 **`POST /jobs` 到 `RUNNING` 的最小实现接口契约（请求/响应 JSON）**。
 
+- Swagger UI: http://127.0.0.1:8000/docs
+- OpenAPI: http://127.0.0.1:8000/openapi.json
+
